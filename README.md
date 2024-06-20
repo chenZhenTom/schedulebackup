@@ -1,3 +1,6 @@
+# 詳細介紹
+詳細介紹請去看這篇 -> 
+
 # 操作說明
 ## 更換 gcp 專案憑證 
 `google_client_secrets.json`
